@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Retiro Nacional 2025",
+    "fecha": "2025-08-10",
+    "descripcion": "Se realizará el retiro nacional en Bogotá con participación de todas las jurisdicciones.",
+    "autor": "Junta Nacional"
+  },
+  {
+    "id": 2,
+    "titulo": "Nueva Jurisdicción en Medellín",
+    "fecha": "2025-07-15",
+    "descripcion": "El Movimiento Juan XXIII abre presencia en la jurisdicción de Medellín.",
+    "autor": "Secretaría"
+  }
+]
